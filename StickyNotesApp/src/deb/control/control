@@ -1,0 +1,7 @@
+Package: stickynotes
+Version: 1.0
+Section: app
+Priority: optional
+Architecture: all
+Maintainer: Zubair 
+Description: Helps you manage your task easier
